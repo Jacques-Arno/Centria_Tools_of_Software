@@ -4,3 +4,4 @@ water
 fish
 meat
 pasta
+salt
